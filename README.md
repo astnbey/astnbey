@@ -3,9 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/astn_bey" target="blank"><img src="https://img.shields.io/twitter/follow/astn_bey?logo=twitter&style=for-the-badge" alt="astn_bey" /></a> </p>
 
+- 🔭 I’m currently working on [Freelance Projects on my Portfolio](https://beylabs.vercel.app/projects)
+
+- 🌱 I’m currently learning **Full Stack Web Development**
+
 - 👨‍💻 All of my projects are available at [https://beylabs.vercel.app/](https://beylabs.vercel.app/)
 
 - 📝 I regularly write articles on [https://beylabs.vercel.app/blog](https://beylabs.vercel.app/blog)
+
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, PostgreSQL, React.js, Node.js etc.**
 
 - 📫 How to reach me **astnbey@gmail.com**
 
