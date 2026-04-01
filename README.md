@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Austine Bey</h1>
-<h3 align="center">A self-taught software developer (freelance) from Nairobi, Kenya</h3>
+<h3 align="center">A software developer (freelance) from Nairobi, Kenya</h3>
 
 <p align="left"> <a href="https://twitter.com/astn_bey" target="blank"><img src="https://img.shields.io/twitter/follow/astn_bey?logo=twitter&style=for-the-badge" alt="astn_bey" /></a> </p>
 
